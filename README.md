@@ -1,16 +1,13 @@
 # bayan
 
-A new Flutter project.
+An E-invoice App.
 
-## Getting Started
+##  Aim:
 
-This project is a starting point for a Flutter application.
+Our project focuses on developing a system capable of preserving bills, managing and monitoring
+them in an easy and effective manner in one place, and enabling users to monitor their expenses
+and the full capacity to deal with them directly and provide clear visions about their expenses and
+the latest operations. Improving quality and creating a safe and effective environment between
+consumers and traders.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
